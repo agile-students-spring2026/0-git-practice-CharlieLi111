@@ -10,6 +10,7 @@ I see AI as a tool that becomes way more powerful when you actually know what yo
 
 ---
 *By Charlie*
+---
 
 ## Comment by Angelina Wu : TangelinaWu aw5287
 I think what your are saying is pretty interesting. AI is able to self generate code and essentially improve itself. This is why lots of big tech companies are firing workers and relying more and more on AI for integration. However I think the lack of prompt control and oversight is lacking and needs to be controlled tighter. Our understanding of this tool is lacking and the technological advancement is going faster than our understand of what is being created. PS: article link no work
